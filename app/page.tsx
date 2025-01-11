@@ -1,4 +1,4 @@
-import { IncrViewer } from "@/actions/incrViewer";
+// import { IncrViewer } from "@/actions/incrViewer";
 import { Container } from "@/components/ui-self/container/container";
 import { H1 } from "@/components/ui-self/heading";
 import { Footer } from "@/components/ui-self/sections/footer";
